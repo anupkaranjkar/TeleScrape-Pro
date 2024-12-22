@@ -20,7 +20,11 @@ Unlock the full potential of Telegram with TeleScrape Pro, a powerful Python scr
 
 Hey there, data enthusiast! 🌟 Welcome to the ultimate Telegram channel scraping tool! Get ready to dive into a world of information where collecting data is not just easy, but also fun! Discover insights, gather media, and unlock the secrets of your favorite channels—let's make data exploration an exciting journey! 🚀📊
 
-<a href="https://www.buymeacoffee.com/anupkaranjk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/anupkaranjk" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" 
+alt="Buy Me A Coffee" style="height: 60px !important;width: 217px 
+!important;" >
+</a>
 
 
 ## ✨ What's This Magic Tool?
